@@ -1,0 +1,6 @@
+framework module Pods_Tank_Calculator {
+  umbrella header "Pods-Tank_Calculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
